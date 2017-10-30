@@ -1,1 +1,2 @@
 ini ada line baru
+edit file new.txt /*arwenstar*/
